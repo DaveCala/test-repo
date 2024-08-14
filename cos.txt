@@ -1,1 +1,2 @@
 witam serdecznie 
+wprowadzam zmianę w pliku by zrobić pull.
